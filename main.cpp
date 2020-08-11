@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+//reduce a la mitad la busqueda
 using namespace std;
 #define tamanio(a) (sizeof(a)/sizeof(a[0]));
 
